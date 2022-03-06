@@ -30,7 +30,6 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 - What does Metricbeat record? The DVWA metrics such as uptime.
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
 | Name       | Function       | IP Address   | Operation System |   |
 |------------|----------------|--------------|------------------|---|
