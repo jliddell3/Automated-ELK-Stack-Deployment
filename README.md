@@ -5,7 +5,7 @@ GW Bootcamp Repository
 
 The files in this repository were used to configure the network depicted below.
 
-(Diagrams/Elk-Stack.png)
+![](Diagrams/Elk-Stack.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the install-elk.txt file may be used to install only certain pieces of it, such as Filebeat.
 
