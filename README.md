@@ -1,4 +1,4 @@
-# GW_Cyber
+# Automated ELK Stack Deployment
 GW Bootcamp Repository
 
 ## Automated ELK Stack Deployment
